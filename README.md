@@ -14,9 +14,7 @@ I lead small engineering teams (up to **5**), mentor developers, and ship clean,
 
 ---
 
-## Featured work (portfolio)
-
-> I focus on outcomes and maintainable systems. Below are my three “anchor” projects.
+## Featured work
 
 ### Piece by Piece — Lead Programmer / Technical Director
 **Game pitch:** *Inherit your family's repair shop… fix treasured possessions for the forest folk, paint masterpieces, and customise your shop.*  
@@ -30,11 +28,6 @@ Steam: https://store.steampowered.com/app/3179050/Piece_by_Piece/
 **Measured impact**
 - PC: improved performance from ~40 FPS average to a stable **120 FPS**.
 - Nintendo Switch: improved from ~20 FPS to a stable **60 FPS**.
-
-**Portfolio material (no source code)**
-- 📌 Case study repo: **[PieceByPiece-Technical-CaseStudy](#)** (architecture diagrams, performance notes, systems breakdown)
-- 🎬 Trailer: **[link]**
-- 📷 Screenshots/GIFs: **(add below)**
 
 <!-- Replace these placeholders with images you upload into this repo, e.g. /assets/pbp_01.gif -->
 <p>
