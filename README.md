@@ -55,6 +55,7 @@ Steam: https://store.steampowered.com/app/3179050/Piece_by_Piece/
 
 ### Event Manager (Unity Asset Store) — Creator / Maintainer
 *Event-driven communication in Unity with minimal boilerplate (one-line integration).*
+
 Asset Store: https://assetstore.unity.com/packages/tools/utilities/event-manager-simplest-event-system-one-line-integration-144785  
 Docs: https://github.com/kennethdevelops/EventManagerDocs/wiki
 
