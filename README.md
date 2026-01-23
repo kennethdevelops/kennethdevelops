@@ -24,8 +24,12 @@ Steam: https://store.steampowered.com/app/3179050/Piece_by_Piece/
 
 **My responsibilities**
 - Designed the **gameplay architecture** and core systems (production-ready foundations).
-- Led a team of **3 programmers**: standards, code reviews, task breakdown, delivery.
+- Led a team of **5 programmers**: standards, code reviews, task breakdown, delivery.
 - Performance & stability: profiling, bottleneck removal, iteration, regression checks.
+
+**Notable systems**
+- **Repair Puzzle System:** 3D multi-piece assembly with forgiving placement thresholds and clear feedback (visual/audio) for relaxing gameplay.
+- **Customer Orders & Quest Systems:** structured quest types driving repairs, selling interactions, and story progression.
 
 **Measured impact**
 - PC: improved performance from ~40 FPS average to a stable **120 FPS**.
@@ -33,27 +37,29 @@ Steam: https://store.steampowered.com/app/3179050/Piece_by_Piece/
 
 ---
 
-### Grand Lukto — Lead Programmer / Technical Director
-*Inherit your family's repair shop… fix treasured possessions for the forest folk, paint masterpieces, and customise your shop.*  
-Steam: https://store.steampowered.com/app/3179050/Piece_by_Piece/
+### Grand Lukto — Lead Programmer
+*An intensely gameplay-focused title where responsiveness and moment-to-moment input feel were core to the experience.*
 
 ![GrandLukto-TeaserTrailer](https://github.com/user-attachments/assets/73984d6c-0c01-463b-be16-f39109c49c09)
 
 **My responsibilities**
-- Designed the **gameplay architecture** and core systems (production-ready foundations).
-- Led a team of **3 programmers**: standards, code reviews, task breakdown, delivery.
-- Performance & stability: profiling, bottleneck removal, iteration, regression checks.
+- Spearheaded the design and implementation of **all gameplay mechanics**.
+- Built and iterated on a **highly responsive Player Controller** to ensure smooth, intuitive interactions.
+- Led a team of **3 programmers**: feature breakdown, alignment with the creative vision, and delivery ownership.
 
-**Measured impact**
-- PC: improved performance from ~40 FPS average to a stable **120 FPS**.
-- Nintendo Switch: improved from ~20 FPS to a stable **60 FPS**.
+**Notable systems**
+- **Special block placement system** (complex spatial/gameplay constraints and edge cases).
+- **Opponent AI** for solo play mode (behaviour design and robust implementation under gameplay pressure).
 
 ---
 
 ### Event Manager (Unity Asset Store) — Creator / Maintainer
-**Pitch:** Event-driven communication in Unity with minimal boilerplate (one-line integration).  
+*Event-driven communication in Unity with minimal boilerplate (one-line integration).*
 Asset Store: https://assetstore.unity.com/packages/tools/utilities/event-manager-simplest-event-system-one-line-integration-144785  
 Docs: https://github.com/kennethdevelops/EventManagerDocs/wiki
+
+<img width="1950" height="1300" alt="image" src="https://github.com/user-attachments/assets/b3344560-4013-4f46-b575-9e49adbecf91" />
+
 
 **Highlights**
 - Designed and built end-to-end: runtime + editor extensions + documentation + tutorials.
@@ -63,9 +69,12 @@ Docs: https://github.com/kennethdevelops/EventManagerDocs/wiki
 ---
 
 ### Localization Manager (Unity Asset Store) — Creator / Maintainer (Open Source)
-**Pitch:** Lightweight localisation for Unity with drag-and-drop setup and translator-friendly formatting.  
+*Lightweight localisation for Unity with drag-and-drop setup and translator-friendly formatting.*  
 Asset Store: https://assetstore.unity.com/packages/tools/localization/localization-manager-316960  
 Docs: https://github.com/kennethdevelops/LocalizationManagerDocs/wiki
+
+<img width="1950" height="1300" alt="image" src="https://github.com/user-attachments/assets/c121b470-2946-46b7-8bbb-aa8ede292b8b" />
+
 
 **Why teams use it**
 - **Fast setup:** drag & drop CSV files into a project folder and you’re ready.
