@@ -20,7 +20,7 @@ I lead small engineering teams (up to **5**), mentor developers, and ship clean,
 *Inherit your family's repair shop… fix treasured possessions for the forest folk, paint masterpieces, and customise your shop.*  
 Steam: https://store.steampowered.com/app/3179050/Piece_by_Piece/
 
-![Piece by Piece Gameplay](https://github.com/user-attachments/assets/ce804a7a-18d7-470b-b95e-57fa62056dec)
+<img width="487" height="325" alt="image" src="https://github.com/user-attachments/assets/ce804a7a-18d7-470b-b95e-57fa62056dec" />
 
 **My responsibilities**
 - Designed the **gameplay architecture** and core systems (production-ready foundations).
@@ -40,7 +40,7 @@ Steam: https://store.steampowered.com/app/3179050/Piece_by_Piece/
 ### Grand Lukto — Lead Programmer
 *An intensely gameplay-focused title where responsiveness and moment-to-moment input feel were core to the experience.*
 
-![GrandLukto-TeaserTrailer](https://github.com/user-attachments/assets/73984d6c-0c01-463b-be16-f39109c49c09)
+<img width="487" height="325" alt="image" src="https://github.com/user-attachments/assets/73984d6c-0c01-463b-be16-f39109c49c09" />
 
 **My responsibilities**
 - Spearheaded the design and implementation of **all gameplay mechanics**.
@@ -58,7 +58,7 @@ Steam: https://store.steampowered.com/app/3179050/Piece_by_Piece/
 Asset Store: https://assetstore.unity.com/packages/tools/utilities/event-manager-simplest-event-system-one-line-integration-144785  
 Docs: https://github.com/kennethdevelops/EventManagerDocs/wiki
 
-<img width="1950" height="1300" alt="image" src="https://github.com/user-attachments/assets/b3344560-4013-4f46-b575-9e49adbecf91" />
+<img width="487" height="325" alt="image" src="https://github.com/user-attachments/assets/b3344560-4013-4f46-b575-9e49adbecf91" />
 
 
 **Highlights**
@@ -73,7 +73,7 @@ Docs: https://github.com/kennethdevelops/EventManagerDocs/wiki
 Asset Store: https://assetstore.unity.com/packages/tools/localization/localization-manager-316960  
 Docs: https://github.com/kennethdevelops/LocalizationManagerDocs/wiki
 
-<img width="1950" height="1300" alt="image" src="https://github.com/user-attachments/assets/c121b470-2946-46b7-8bbb-aa8ede292b8b" />
+<img width="487" height="325" alt="image" src="https://github.com/user-attachments/assets/c121b470-2946-46b7-8bbb-aa8ede292b8b" />
 
 
 **Why teams use it**
