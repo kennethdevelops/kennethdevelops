@@ -10,18 +10,17 @@ Senior Unity developer and technical lead with **9+ years** building gameplay sy
 I lead small engineering teams (up to **5**), mentor developers, and ship clean, maintainable code with a strong focus on **performance optimisation** and production constraints.
 
 **Available for:** contract / full-time / part-time • mentoring / teaching  
-**Location:** Buenos Aires (GMT-3) • Remote-friendly
+**Location:** Buenos Aires, Argentina (GMT-3) • Remote-friendly
 
 ---
 
 ## Featured work
 
 ### Piece by Piece — Lead Programmer / Technical Director
-**Game pitch:** *Inherit your family's repair shop… fix treasured possessions for the forest folk, paint masterpieces, and customise your shop.*  
+*Inherit your family's repair shop… fix treasured possessions for the forest folk, paint masterpieces, and customise your shop.*  
 Steam: https://store.steampowered.com/app/3179050/Piece_by_Piece/
 
 ![Piece by Piece Gameplay](https://github.com/user-attachments/assets/ce804a7a-18d7-470b-b95e-57fa62056dec)
-
 
 **My responsibilities**
 - Designed the **gameplay architecture** and core systems (production-ready foundations).
@@ -32,12 +31,22 @@ Steam: https://store.steampowered.com/app/3179050/Piece_by_Piece/
 - PC: improved performance from ~40 FPS average to a stable **120 FPS**.
 - Nintendo Switch: improved from ~20 FPS to a stable **60 FPS**.
 
-<!-- Replace these placeholders with images you upload into this repo, e.g. /assets/pbp_01.gif -->
-<p>
-  <img src="assets/pbp_01.gif" width="32%" alt="Piece by Piece gameplay GIF 1" />
-  <img src="assets/pbp_02.gif" width="32%" alt="Piece by Piece gameplay GIF 2" />
-  <img src="assets/pbp_03.gif" width="32%" alt="Piece by Piece gameplay GIF 3" />
-</p>
+---
+
+### Grand Lukto — Lead Programmer / Technical Director
+*Inherit your family's repair shop… fix treasured possessions for the forest folk, paint masterpieces, and customise your shop.*  
+Steam: https://store.steampowered.com/app/3179050/Piece_by_Piece/
+
+![GrandLukto-TeaserTrailer](https://github.com/user-attachments/assets/73984d6c-0c01-463b-be16-f39109c49c09)
+
+**My responsibilities**
+- Designed the **gameplay architecture** and core systems (production-ready foundations).
+- Led a team of **3 programmers**: standards, code reviews, task breakdown, delivery.
+- Performance & stability: profiling, bottleneck removal, iteration, regression checks.
+
+**Measured impact**
+- PC: improved performance from ~40 FPS average to a stable **120 FPS**.
+- Nintendo Switch: improved from ~20 FPS to a stable **60 FPS**.
 
 ---
 
