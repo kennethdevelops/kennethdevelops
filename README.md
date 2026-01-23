@@ -71,6 +71,7 @@ Docs: https://github.com/kennethdevelops/EventManagerDocs/wiki
 
 ### Localization Manager (Unity Asset Store) — Creator / Maintainer (Open Source)
 *Lightweight localisation for Unity with drag-and-drop setup and translator-friendly formatting.*  
+
 Asset Store: https://assetstore.unity.com/packages/tools/localization/localization-manager-316960  
 Docs: https://github.com/kennethdevelops/LocalizationManagerDocs/wiki
 
