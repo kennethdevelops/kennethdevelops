@@ -20,6 +20,9 @@ I lead small engineering teams (up to **5**), mentor developers, and ship clean,
 **Game pitch:** *Inherit your family's repair shop… fix treasured possessions for the forest folk, paint masterpieces, and customise your shop.*  
 Steam: https://store.steampowered.com/app/3179050/Piece_by_Piece/
 
+![Piece by Piece Gameplay](https://github.com/user-attachments/assets/ce804a7a-18d7-470b-b95e-57fa62056dec)
+
+
 **My responsibilities**
 - Designed the **gameplay architecture** and core systems (production-ready foundations).
 - Led a team of **3 programmers**: standards, code reviews, task breakdown, delivery.
@@ -48,13 +51,6 @@ Docs: https://github.com/kennethdevelops/EventManagerDocs/wiki
 - Built for **clean, decoupled game logic** and long-term maintainability.
 - **Unity 2022+** (including Unity 6).
 
-**Repos**
-- Runtime/source: **[link to code repo]**
-- Documentation: https://github.com/kennethdevelops/EventManagerDocs/wiki
-
-<!-- Optional: add a short GIF of the workflow -->
-<!-- ![EventManager demo](assets/eventmanager_demo.gif) -->
-
 ---
 
 ### Localization Manager (Unity Asset Store) — Creator / Maintainer (Open Source)
@@ -67,10 +63,6 @@ Docs: https://github.com/kennethdevelops/LocalizationManagerDocs/wiki
 - **Easy usage:** no-code `LocalizedText` component for UI/TMP, or one-line code access.
 - **Translator-friendly formatting:** intuitive placeholders/formatting; scalable to any language.
 - **Unity 2022+** (including Unity 6).
-
-**Repos**
-- Runtime/source: **[link to code repo]**
-- Documentation: https://github.com/kennethdevelops/LocalizationManagerDocs/wiki
 
 ---
 
