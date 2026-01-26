@@ -31,6 +31,8 @@ Steam: https://store.steampowered.com/app/3179050/Piece_by_Piece/
 - **Repair Puzzle System:** 3D multi-piece assembly with forgiving placement thresholds and clear feedback (visual/audio) for relaxing gameplay.
 - **Customer Orders & Quest Systems:** structured quest types driving repairs, selling interactions, and story progression.
 
+<img width="487" height="325" alt="image" src="https://github.com/user-attachments/assets/40c8f9b9-a3e3-494a-95e0-bc488970dddd" />
+
 **Measured impact**
 - PC: improved performance from ~40 FPS average to a stable **120 FPS**.
 - Nintendo Switch: improved from ~20 FPS to a stable **60 FPS**.
