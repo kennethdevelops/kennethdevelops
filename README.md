@@ -88,7 +88,7 @@ Docs: https://github.com/kennethdevelops/LocalizationManagerDocs/wiki
 
 ---
 
-## What I’m good at (the short version)
+## What I’m good at
 - Gameplay architecture & reusable systems (vertical slice → production)
 - Unity tooling & editor UX (custom inspectors/windows, workflow automation)
 - Performance optimisation (profiling-driven; console/mobile constraints)
