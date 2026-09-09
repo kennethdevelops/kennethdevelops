@@ -1,4 +1,4 @@
-<p align="center">
+![boogeyroyale](https://github.com/user-attachments/assets/187e51e3-2374-4c28-ac70-35a9ebdec4f2)![image_original](https://github.com/user-attachments/assets/66ac8656-32bb-469f-8fd0-cb05a4572031)<p align="center">
   <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179050/header.jpg?t=1762349746" alt="Piece by Piece — Steam header" />
 </p>
 
@@ -61,8 +61,6 @@ A selection of commercially released games I contributed to. These projects were
 ### Boogey Royale — Unity Developer / Technical Consultant
 *Competitive mobile golf game released for Android and iOS.*
 
-<img width="487" alt="Boogey Royale gameplay" src="./boogeyroyale.png" />
-
 **My contributions**
 - Joined the project initially as a **technical consultant**, auditing the existing Unity project, code architecture, and overall implementation.
 - Identified architectural and maintainability issues within an established production codebase.
@@ -73,8 +71,6 @@ A selection of commercially released games I contributed to. These projects were
 
 ### Idle Pizza — Restaurant Tycoon — Unity Developer / Technical Consultant
 *Mobile idle-management and restaurant tycoon game released for Android and iOS.*
-
-<img width="487" alt="Idle Pizza - Restaurant Tycoon gameplay" src="./image_original.png" />
 
 **My contributions**
 - Initially brought onto the project as a **technical consultant** to audit its Unity architecture and existing codebase.
