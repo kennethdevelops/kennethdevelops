@@ -1,6 +1,7 @@
-![boogeyroyale](https://github.com/user-attachments/assets/187e51e3-2374-4c28-ac70-35a9ebdec4f2)![image_original](https://github.com/user-attachments/assets/66ac8656-32bb-469f-8fd0-cb05a4572031)<p align="center">
+<p align="center">
   <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179050/header.jpg?t=1762349746" alt="Piece by Piece — Steam header" />
 </p>
+
 
 # Kenneth G. Azcurra — Senior Unity Developer / Technical Lead
 
